@@ -1,0 +1,5 @@
+C:/Users/Marius/Desktop/Pybind/vsstudio/CMakeFiles/pybind11module.dir
+C:/Users/Marius/Desktop/Pybind/vsstudio/CMakeFiles/pybind11app.dir
+C:/Users/Marius/Desktop/Pybind/vsstudio/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marius/Desktop/Pybind/vsstudio/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Marius/Desktop/Pybind/vsstudio/externals/pybind11/CMakeFiles/ALL_BUILD.dir
